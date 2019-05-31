@@ -1,1 +1,149 @@
 
+	nav {
+			position: fixed;
+			top: 2px;
+			right: 23%;
+			}
+	nav a {
+			display: inline-block;
+			padding: 17px 30px;
+			font-weight: bold;
+			text-decoration: none;
+			color: white;
+			background-color: #6A6C6E;
+			border-radius: 5px;
+			}
+	main {
+			width: 78%;
+			padding: 30px;
+			box-sizing: border-box;
+			top: 5%;
+			}
+	main h2 {
+			border: 1px solid #002395;
+			}
+	#slikaonama {
+			width: 100%;
+			border-radius: 20px!important;
+			}
+	aside {
+			position: fixed;
+			right: 0;
+			top: 0;
+			width: 22%;
+			height: 100%;
+			box-sizing: border-box;
+			padding: 0px 20px;
+			background-color: silver;
+			border-left: 1px dashed #002395;
+			border-radius: 10px;
+			}
+	aside a {
+			text-decoration: none;
+			color: white;
+			}
+	footer {
+			width: 78%;
+			padding: 20px;
+			}
+	video {
+			position: relative;
+			width: 49%;
+			height: 548px;
+			margin-top: -180px!important;
+			}
+	iframe {
+			position: relative;
+			width: 49%;
+			height: 400px;
+			}
+	nav a:hover {
+			background-color: #F0D6DE;
+			}
+	.copy {
+			text-align: center;
+			background-color: #eee;
+			padding: 20px;
+			border-radius: 12px;
+			}
+		/*tabela*/
+
+	table {
+			border: 2px solid orange;
+			border-spacing: 5px;
+			border-radius: 10px;
+			background-color: #F0F0F0;
+			}
+	tr, td, th {
+			border: 2px solid #56B37E;
+			text-align: center;
+			padding: 5px;
+			border-radius: 5px;
+			}
+	input[placeholder] {
+			text-align: center;
+			}
+	td:hover {
+			background-color: #77ABAB;
+			}
+	input[placeholder]:hover, .kategorija:hover, .boja:hover, .materijal:hover, .veličina:hover {
+			background-color: #F0D6DE;
+			}
+	.pošalji:hover {
+			background-color: #F0D6DE;
+			}
+	.pošalji {
+			width: 150px;
+			height: 30px;
+			border-radius: 10px;
+			}
+	th {
+			background-color: #F0E09E;
+			}
+	h2 {
+			background-color: silver;
+			border: 2px solid orange;
+			border-radius: 10px;
+			padding: 3px;
+			padding-left: 5%;
+			color: black;
+				}
+	h3 {
+			border: 2px solid silver;
+			text-align: center;
+			width: 150px;
+			margin: auto;
+			border-radius: 15px;
+			}
+	.table {
+			display: inline-block;
+			margin-left: -15px;
+			margin-top: 10px;
+			}
+	.mapa {
+			height: 400px;
+			width: 100%;
+			}
+			
+	aside h2 {
+			text-align: center;
+			color: orange;
+			background-color: #6A6C6E;
+			}
+	h1 {
+			font-family: 'Sofia';
+			font-size: 22px;
+			padding: 3px;
+			background-color: silver;
+			border-radius: 20px;
+			color: black;
+			padding: 1% 0% 1% 5%;
+			margin-top: 24px;
+			text-align: center;
+			} 
+	span {
+			color: white;
+			}
+	#yt {
+			display: inline-block;
+			}
